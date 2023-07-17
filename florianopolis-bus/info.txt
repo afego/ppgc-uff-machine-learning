@@ -1,0 +1,15 @@
+DataSet Florianópolis
+
+Atributos:
+
+- data e hora de partida
+- data e hora de chegada
+- sentido (ida, volta)
+- linha
+- código do Veículo
+- total de giros => número de passageiros que passaram na catraca dos ônibus
+- quilômetros percorridos na viagem 
+- duração da viagem
+
+Informações sobre o itinerário das linhas de ônibus:
+https://www.consorciofenix.com.br/horarios
